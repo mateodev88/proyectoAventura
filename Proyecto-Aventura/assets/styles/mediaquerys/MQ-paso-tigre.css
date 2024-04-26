@@ -1,0 +1,27 @@
+@media screen and (max-width:1075px){
+    .introduccion{
+        width: 90%;
+    }
+    .cont-guadaña img{
+        width: 10rem;
+    }
+}
+
+@media screen and (max-width:651px){
+    .introduccion{
+        font-size: .8rem;
+    }
+ 
+}
+
+@media screen and (max-width:523px){
+ .cont-guadaña img{
+    width: 6rem;
+ }
+ .cont-guadaña p{
+    font-size: .6rem;
+ }
+ .btn{
+    font-size: .8rem;
+ }
+}

@@ -1,0 +1,19 @@
+/* .container-main-montaña{
+    width: 100%;
+    height: 100vh;
+    background-image: url(../img/fondo-montaña.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.container-main-montaña .container-buttom{
+    display: flex;
+    width: 80%;
+    height: auto;
+    justify-content: center;
+    gap: 5rem;
+} */

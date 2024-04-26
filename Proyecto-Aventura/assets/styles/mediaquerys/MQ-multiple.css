@@ -1,0 +1,32 @@
+@media screen and (max-width:830px) {
+    .introduccion {
+        width: 90%;
+    }
+
+    .sipnosis {
+        width: 90%;
+    }
+}
+
+@media screen and (max-width:482px) {
+    .opciones {
+        font-size: 1rem;
+    }
+
+    .introduccion {
+        font-size: .8rem;
+    }
+
+    .sipnosis {
+        font-size: .7rem;
+    }
+}
+
+@media screen and (max-width:358px){
+    .introduccion{
+        font-size: .7rem;
+    }
+    .btn{
+        font-size: .8rem;
+    }
+}

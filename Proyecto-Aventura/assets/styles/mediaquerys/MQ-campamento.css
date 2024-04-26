@@ -1,0 +1,8 @@
+@media screen and (max-width:470px){
+    .introduccion{
+        width: 90%;
+    }
+    .helicopter{
+        width: 13rem;
+    }
+}
